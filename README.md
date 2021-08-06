@@ -14,11 +14,11 @@ Create the Button component with:
 
 # Primary/Secodary
 
-<img src="./images/styling-button1.png" />
+<img src="./styling-button1.png" />
 
 # Sizes
 
-<img src="./images/styling-button-sizes.png" />
+<img src="./styling-button-sizes.png" />
 
 # JSX
 
